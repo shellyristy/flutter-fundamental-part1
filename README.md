@@ -50,4 +50,13 @@
 ![Screenshot hello_world](images/19.png)
 
 ### **Tugas 2** : Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut!
+* Langkah 3: Scaffold Widget
+![Screenshot hello_world](images/20.png)
+* Langkah 4: Dialog Widget
+![Screenshot hello_world](images/21.png)
+* Langkah 5: Input dan Selection Widget
+![Screenshot hello_world](images/22.png)
+* Langkah 6: Date and Time Pickers
+![Screenshot hello_world](images/23.png)
+![Screenshot hello_world](images/24.png)
 
